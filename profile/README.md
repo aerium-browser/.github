@@ -19,9 +19,9 @@ The name comes from **aerogel**, the lightest solid there is: up to 99% air by v
 
 | | Repo | Base |
 |---|---|---|
-| 🪟 Windows | [aerium-browser-windows](https://github.com/aerium-browser/aerium-browser-windows) | [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) |
+| 🖥️ Windows | [aerium-browser-windows](https://github.com/aerium-browser/aerium-browser-windows) | [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) |
 | 🐧 Linux | [aerium-browser-linux](https://github.com/aerium-browser/aerium-browser-linux) | [ungoogled-chromium-portablelinux](https://github.com/ungoogled-software/ungoogled-chromium-portablelinux) (AppImage) |
-| 🤖 Android | [aerium-browser-android](https://github.com/aerium-browser/aerium-browser-android) | Vanadium-based fork |
+| 🤖 Android | [aerium-browser-android](https://github.com/aerium-browser/aerium-browser-android) | [Titanium Browser](https://github.com/jqssun/android-titanium-browser) (Vanadium-based) |
 
 Each repo builds and publishes releases automatically on GitHub Actions — see its own README for downloads and build details.
 
