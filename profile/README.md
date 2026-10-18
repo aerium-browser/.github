@@ -24,8 +24,8 @@
 
 <p align="center">
   <img src="https://aerium-browser.github.io/shots/new-tab.webp" width="180" alt="Aerium new tab page">
-  <img src="https://aerium-browser.github.io/shots/extensions.webp" width="180" alt="Aerium extensions">
-  <img src="https://aerium-browser.github.io/shots/settings-guard.webp" width="180" alt="Aerium Guard settings">
+  <img src="https://aerium-browser.github.io/shots/extensions.webp" width="180" alt="Aerium extensions screen">
+  <img src="https://aerium-browser.github.io/shots/settings-guard.webp" width="180" alt="Aerium Guard modes and profiles">
   <img src="https://aerium-browser.github.io/shots/settings-backup.webp" width="180" alt="Aerium backup and restore">
 </p>
 
