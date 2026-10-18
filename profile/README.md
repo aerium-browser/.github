@@ -1,34 +1,63 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aerium-browser/aerium-browser-windows/master/brand/product_logo.svg" width="88" height="88" alt="Aerium logo">
+  <img src="https://aerium-browser.github.io/brand/product_logo_256.png" width="96" height="96" alt="Aerium logo">
 </p>
 
 <h1 align="center">Aerium</h1>
-<p align="center"><i>A browser that stays out of the way.</i></p>
 
 <p align="center">
-  <a href="https://aerium-browser.github.io"><b>aerium-browser.github.io</b></a>
+  <b>The browser that stays out of the way.</b><br>
+  Desktop extensions on Android. No big tech inside.
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/aerium-browser/aerium-browser-android/releases/latest"><b>Download for Android</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://aerium-browser.github.io">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://aerium-browser.github.io/obtainium/">Get it with Obtainium</a>
+</p>
 
-Aerium is a privacy-focused, de-googled Chromium browser. No telemetry calling home, no bundled Google services, no ad platform baked into the settings page — built on the open-source Chromium project, with the weight that doesn't belong to you stripped out.
+<p align="center">
+  <a href="https://github.com/aerium-browser/aerium-browser-android/releases/latest"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faerium-browser.github.io%2Fbadges%2Frelease.json" alt="Latest release"></a>
+  <a href="https://github.com/aerium-browser/aerium-browser-android/releases"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faerium-browser.github.io%2Fbadges%2Fdownloads.json" alt="Downloads"></a>
+</p>
 
-The name comes from **aerogel**, the lightest solid there is: up to 99% air by volume, solid enough to hold its shape, light enough to rest on a flower without bending the stem. That's the standard the browser is held to.
+<p align="center">
+  <img src="https://aerium-browser.github.io/shots/new-tab.webp" width="180" alt="Aerium new tab page">
+  <img src="https://aerium-browser.github.io/shots/extensions.webp" width="180" alt="Aerium extensions">
+  <img src="https://aerium-browser.github.io/shots/settings-guard.webp" width="180" alt="Aerium Guard settings">
+  <img src="https://aerium-browser.github.io/shots/settings-backup.webp" width="180" alt="Aerium backup and restore">
+</p>
 
-## Platforms
+Aerium is a free, open source Android browser built on Chromium and the hardened Vanadium base. It runs desktop extensions, Manifest V2 included, so uBlock Origin works in full. Nothing phones home.
 
-| | Repo | Base |
-|---|---|---|
-| 🖥️ Windows | [aerium-browser-windows](https://github.com/aerium-browser/aerium-browser-windows) | [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) |
-| 🐧 Linux | [aerium-browser-linux](https://github.com/aerium-browser/aerium-browser-linux) | [ungoogled-chromium-portablelinux](https://github.com/ungoogled-software/ungoogled-chromium-portablelinux) (AppImage) |
-| 🤖 Android | [aerium-browser-android](https://github.com/aerium-browser/aerium-browser-android) | [Titanium Browser](https://github.com/jqssun/android-titanium-browser) (Vanadium-based) |
+Aerium is Android only for now. Windows and Linux versions may come later, once the project has more developers and support.
 
-Each repo builds and publishes releases automatically on GitHub Actions — see its own README for downloads and build details.
+## What you get
 
-## Elsewhere
+- **Extensions, finally.** Install from the Chrome Web Store, the Opera and Edge add-on stores, or a `.crx` file. First launch offers a handful of open source picks.
+- **Aerium Guard.** Privacy, security and speed options set together, with profiles you can save and share.
+- **Aerogel tabs.** Private tabs that close without a trace, with the extensions you choose.
+- **Your toolbar, your menu.** Pick a layout, choose your buttons, and reorder the menu.
+- **Site rules.** Keep a site, keep it until you close Aerium, or clear it when its last tab closes.
+- **Backup and restore.** Tabs, extensions with their settings, site permissions and settings, on any phone.
+- **Light, dark and true black themes.**
 
-- [aerium-browser.github.io](https://github.com/aerium-browser/aerium-browser.github.io) — the project's landing page
+## Named after aerogel
+
+The lightest solid there is, up to 99% air. Aerium keeps only what matters.
+
+## Repositories
+
+| | |
+|---|---|
+| [aerium-browser-android](https://github.com/aerium-browser/aerium-browser-android) | The browser. Builds and releases run on GitHub Actions. |
+| [aerium-browser.github.io](https://github.com/aerium-browser/aerium-browser.github.io) | The website. |
+
+## Support
+
+Aerium runs on donations and spare time. No ads, no data sales. Donate with [Monero](https://aerium-browser.github.io/donate/xmr/) or [Litecoin](https://aerium-browser.github.io/donate/ltc/).
 
 ## License
 
-Each repo is licensed under the terms of its own upstream project (BSD-style for the Chromium-based repos, GPLv2 for Android). See the `LICENSE` file in each.
+The browser is GPL-2.0, following its Vanadium base. Full credits are in the repository's [NOTICE](https://github.com/aerium-browser/aerium-browser-android/blob/main/NOTICE).
