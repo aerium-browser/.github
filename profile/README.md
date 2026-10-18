@@ -18,6 +18,11 @@
 </p>
 
 <p align="center">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="72" alt="Get it on Google Play"><br>
+  <sub>Coming soon to Google Play</sub>
+</p>
+
+<p align="center">
   <a href="https://github.com/aerium-browser/aerium-browser-android/releases/latest"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faerium-browser.github.io%2Fbadges%2Frelease.json" alt="Latest release"></a>
   <a href="https://github.com/aerium-browser/aerium-browser-android/releases"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Faerium-browser.github.io%2Fbadges%2Fdownloads.json" alt="Downloads"></a>
 </p>
@@ -53,6 +58,10 @@ The lightest solid there is, up to 99% air. Aerium keeps only what matters.
 |---|---|
 | [aerium-browser-android](https://github.com/aerium-browser/aerium-browser-android) | The browser. Builds and releases run on GitHub Actions. |
 | [aerium-browser.github.io](https://github.com/aerium-browser/aerium-browser.github.io) | The website. |
+
+## Security
+
+Found a vulnerability? Please report it privately, as described in [SECURITY.md](https://github.com/aerium-browser/aerium-browser-android/blob/main/SECURITY.md). Every APK is signed with the certificate whose SHA-256 fingerprint is `CE:1E:D2:FD:85:72:EA:D4:B5:D1:3B:9A:FE:85:DC:89:8C:61:9F:33:E5:D0:E1:9F:18:94:11:54:D1:F3:34:B2`.
 
 ## Support
 
